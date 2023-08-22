@@ -38,13 +38,9 @@ authorized HTTP Api calls.
 * react-router-dom
 * js-cookies
 * CSS - Media queries
-* 
 
 
 ## Checkout URL
-* [Jobby App](https://sireesha-jobby-app.vercel.app/login)
+* [Jobby App](https://jobby-app-harsha.vercel.app)
 
-## Credentials
-UserName : rahul
 
-Password  : rahul@2021
