@@ -11,7 +11,7 @@ searching with job title and filter them with salary range & employment type.
 * OnClick of job user can get more info about that specified job.
 
 ### Technical
-* Heroku Deployed Single page responsive web application.
+* Netlify Deployed Single page responsive web application.
 * Implemented different routes like login, home, jobs, job details using react
 components, lists, hooks,event handlers.
 * Persisted user login in system by storing the jwt token in one of client side storage mechanisam cookies.
